@@ -6,7 +6,7 @@ A simple electron app featuring a puzzle about pizza and burgers.
 
 # Download
 
-Download the Mac desktop app [here](#)
+Download the Mac desktop app [here](https://github.com/strawstack/PizzaBurgerElectron/releases/tag/v1.0)
 
 # Preview
 
