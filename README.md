@@ -10,7 +10,7 @@ Download the Mac desktop app [here](https://github.com/strawstack/PizzaBurgerEle
 
 # Preview
 
-Preview the app in the browser [here](#)
+Preview the app in the browser [here](http://regularmemory.blog/PizzaBurgerElectron/)
 
 # MagicMao
 
