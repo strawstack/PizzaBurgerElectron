@@ -1,21 +1,22 @@
 {
-  "name": "electron-quick-start",
+  "name": "Baking PizzaBurgers",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A simple game about baking",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "pizza",
+    "burger",
+    "simple",
+    "game",
+    "puzzle"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "MagicMao.dev",
+  "license": "",
   "devDependencies": {
     "electron": "^8.0.0"
   }

@@ -1,0 +1,96 @@
+html {
+    margin: 0px;
+    padding: 0px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    font-size: 1.2em;
+    color: #333;
+}
+body {
+    overflow: hidden;
+    background: url("background.png");
+}
+.title {
+    text-align: center;
+}
+.title span:nth-child(1) {
+    color: orange;
+}
+.title span:nth-child(2) {
+    color: brown;
+}
+.intro-area {
+    display: flex;
+    justify-content: center;
+}
+.intro-container {
+    max-width: 600px;
+    text-align: justify;
+}
+.intro-container>p {
+    background: #333;
+    padding: 10px;
+    color: white;
+}
+.game-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.game-container {
+    height: 301px;
+    width: 301px;
+    position: relative;
+}
+.game {
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 1px dashed #777;
+    border-left: 1px dashed #777;
+}
+.cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 99px;
+    width: 99px;
+    border-right: 1px dashed #777;
+    border-bottom: 1px dashed #777;
+    font-size: 3.5em;
+    cursor: pointer;
+    background-color: white;
+}
+.cell>i {
+    pointer-events: none;
+}
+.fa-hamburger {
+    color: brown;
+}
+.fa-pizza-slice {
+    color: orange;
+}
+.reset-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: -130px;
+    top: 115px; /* 300/2 - 70/2 */
+    height: 50px;
+    width: 50px;
+    background: grey;
+    font-size: 2.5em;
+    opacity: 0.3;
+    padding: 10px;
+    border-radius: 50%;
+}
+.reset-btn:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
+.reset-btn>i {
+    pointer-events: none;
+}
+p>span {
+    font-weight: bold;
+}
