@@ -14,4 +14,4 @@ Preview the app in the browser [here](http://regularmemory.blog/PizzaBurgerElect
 
 # MagicMao
 
-This app was built bu MagicMao. Check out other cool projects at [MagicMao.dev](https://magicmao.dev)
+This app was built by MagicMao. Check out other cool projects at [MagicMao.dev](https://magicmao.dev)
